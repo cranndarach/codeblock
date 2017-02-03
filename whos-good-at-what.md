@@ -13,6 +13,7 @@ tools are helpful too.
 ## Git
 
 * Rachael - reasonably experienced
+* Russell - some experience (less than Rachael)
 
 ## Haskell
 
@@ -21,15 +22,21 @@ tools are helpful too.
 ## HTML
 
 * Rachael - experienced
+* Russell - some experience
 
 ## JavaScript
 
 * Rachael - reasonably experienced
 
+## LaTeX
+
+* Russell - some experience. probably way, way less than linguists
+
 ## Linux/Mac command line (bash)
 
 * Rachael - reasonably experienced, user-level
 * Sahil - reasonably experienced, mostly in the context of AFNI/fMRI analyses
+* Russell - some experience (definitely less than Rachael!)
 
 # MATLAB
 
@@ -39,14 +46,45 @@ tools are helpful too.
 
 * Rachael - reasonably experienced, though not so much with more specialized
 libraries (but I might be able to help anyway)
+* Russell - reasonably experienced
+
+### Matplotlib
+
+* Russell - some experience
+
+### NetworkX
+
+* Russell - some experience? I haven't seriously worked with it in a while, though....
+
+### NLTK
+
+* Russell - reasonably experienced
 
 ### Numpy
 
 * Rachael - some experience
+* Russell - some experience
+
+### Pandas
+
+* Russell - reasonably experienced; of all the Python packages I know, I know this the best
+
+### Scikit-Learn
+
+* Russell - some experience (I don't actually use this that often...maybe a few times a year?...but the interface is simple enough that it's easy to (re)learn)
+
+### Scipy
+
+* Russell - some experience (less than Pandas and numpy)
+
+### Seaborn
+
+* Russell - reasonably experienced
 
 ## R
 
 * Sahil - learning the basics, though I have a good amount of experience with mixed effects models and growth curve analyses
+* Russell - I sometimes do things in R when forced to, but I always have to re-learn basic syntax when I'm using it...
 
 ## Ruby
 
