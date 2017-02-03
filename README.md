@@ -7,7 +7,7 @@ community (even if you never come to Code Block), you can contact me (Rachael)
 for write access so you can add things if you'd like. Or submit a pull request.
 
 The folders and topics and things that are here are just a starting place—if you
-think something is missing, go ahead and add it! Of if you have questions, you can
+think something is missing, go ahead and add it! Or if you have questions, you can
 [submit an issue](https://github.com/cranndarach/codeblock/issues).
 
 ## New to Git / GitHub?
