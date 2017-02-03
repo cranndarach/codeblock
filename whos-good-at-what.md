@@ -22,6 +22,10 @@ tools are helpful too.
 
 * Rachael - experienced
 
+## JavaScript
+
+* Rachael - reasonably experienced
+
 ## Linux/Mac command line (bash)
 
 * Rachael - reasonably experienced, user-level
