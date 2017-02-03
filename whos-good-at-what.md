@@ -29,6 +29,11 @@ tools are helpful too.
 ## Linux/Mac command line (bash)
 
 * Rachael - reasonably experienced, user-level
+* Sahil - reasonably experienced, mostly in the context of AFNI/fMRI analyses
+
+# MATLAB
+
+* Sahil - reasonably experienced
 
 ## Python
 
@@ -38,6 +43,10 @@ libraries (but I might be able to help anyway)
 ### Numpy
 
 * Rachael - some experience
+
+## R
+
+* Sahil - learning the basics, though I have a good amount of experience with mixed effects models and growth curve analyses
 
 ## Ruby
 
