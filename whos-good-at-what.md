@@ -38,9 +38,10 @@ tools are helpful too.
 * Sahil - reasonably experienced, mostly in the context of AFNI/fMRI analyses
 * Russell - some experience (definitely less than Rachael!)
 
-# MATLAB
+## MATLAB
 
 * Sahil - reasonably experienced
+* Rachael - basic
 
 ## Python
 
@@ -84,7 +85,8 @@ libraries (but I might be able to help anyway)
 ## R
 
 * Sahil - learning the basics, though I have a good amount of experience with mixed effects models and growth curve analyses
-* Russell - I sometimes do things in R when forced to, but I always have to re-learn basic syntax when I'm using it...
+* Russell - some experience
+* Rachael - reasonably experienced
 
 ## Ruby
 
