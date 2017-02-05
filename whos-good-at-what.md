@@ -55,7 +55,7 @@ libraries (but I might be able to help anyway)
 
 ### NetworkX
 
-* Russell - some experience? I haven't seriously worked with it in a while, though....
+* Russell - some experience
 
 ### NLTK
 
@@ -68,15 +68,16 @@ libraries (but I might be able to help anyway)
 
 ### Pandas
 
-* Russell - reasonably experienced; of all the Python packages I know, I know this the best
+* Russell - reasonably experienced; of all the Python packages I know, I 
+know this the best
 
 ### Scikit-Learn
 
-* Russell - some experience (I don't actually use this that often...maybe a few times a year?...but the interface is simple enough that it's easy to (re)learn)
+* Russell - some experience
 
 ### Scipy
 
-* Russell - some experience (less than Pandas and numpy)
+* Russell - some experience (less than numpy)
 
 ### Seaborn
 
