@@ -42,6 +42,7 @@ tools are helpful too.
 
 * Sahil - reasonably experienced
 * Rachael - basic
+* Charlie - well experienced; especially for signal analysis
 
 ## Python
 
