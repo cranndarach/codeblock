@@ -6,6 +6,12 @@ Add yourself and your skill level to anything you have experience with, if you w
 If you don't see it, add it. It doesn't have to be a programming language; related
 tools are helpful too.
 
+## Atom
+
+* Rachael - experienced, probably know if there's a package
+  that does what you're looking for, might be able to help
+  hack it directly
+
 ## CSS
 
 * Rachael - reasonably experienced
@@ -31,6 +37,7 @@ tools are helpful too.
 ## LaTeX
 
 * Russell - some experience. probably way, way less than linguists
+* Rachael - ditto ^
 
 ## Linux/Mac command line (bash)
 
@@ -47,7 +54,7 @@ tools are helpful too.
 ## Python
 
 * Rachael - reasonably experienced, though not so much with more specialized
-libraries (but I might be able to help anyway)
+  libraries (but I might be able to help anyway)
 * Russell - reasonably experienced
 
 ### Matplotlib
@@ -70,7 +77,8 @@ libraries (but I might be able to help anyway)
 ### Pandas
 
 * Russell - reasonably experienced; of all the Python packages I know, I 
-know this the best
+  know this the best
+* Rachael - some experience
 
 ### Scikit-Learn
 
@@ -97,3 +105,7 @@ know this the best
 ### Ruby on Rails
 
 * Rachael - learning
+
+## VIM
+
+* Rachael - gaining proficiency
