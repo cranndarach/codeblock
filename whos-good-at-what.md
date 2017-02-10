@@ -38,6 +38,7 @@ tools are helpful too.
 
 * Russell - some experience. probably way, way less than linguists
 * Rachael - ditto ^
+* Yanina - some experience 
 
 ## Linux/Mac command line (bash)
 
@@ -50,12 +51,17 @@ tools are helpful too.
 * Sahil - reasonably experienced
 * Rachael - basic
 * Charlie - well experienced; especially for signal analysis
+* Yanina - some experience
 
 ## Python
 
 * Rachael - reasonably experienced, though not so much with more specialized
   libraries (but I might be able to help anyway)
 * Russell - reasonably experienced
+
+## Psychopy
+
+* Yanina - basic, using psychopy and willing to learn more, open to discussions about how to build better experiments
 
 ### Matplotlib
 
