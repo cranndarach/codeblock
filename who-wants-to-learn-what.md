@@ -6,11 +6,17 @@
 
 * Rachael
 
+## Bash
+
+* Russell
+
 ## Haskell
 
 * Rachael
 
 ## Python
+
+* Russell -- I'm interested in learning general good practices, like PEP8. Also want to learn more OOP in Python.
 
 ### Psychopy
 
