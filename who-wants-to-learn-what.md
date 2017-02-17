@@ -6,13 +6,13 @@
 
 * Rachael
 
-## Bash
-
-* Russell
-
 ## Haskell
 
 * Rachael
+
+## Linux/Mac command line (bash)
+
+* Russell -- I get by with bash, but I definitely think I need to learn more.
 
 ## Python
 
